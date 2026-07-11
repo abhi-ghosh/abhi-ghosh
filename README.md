@@ -49,13 +49,6 @@ A responsive restaurant web application with booking, ordering, and reservation 
 
 ---
 
-### ⚡ PokeDesk
-A modern Pokédex built with React featuring search, filtering, and detailed Pokémon information.
-
-**Tech:** React • Vite • PokéAPI
-
----
-
 # 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=abhi-ghosh&show_icons=true&theme=github_dark)
